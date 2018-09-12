@@ -1,6 +1,7 @@
 # code-songs
 concentration songs for focus
 
+## songlist
 * south east - tom misch
 * perenne - juan RIOS
 * press play after the sun sets - trebles and blues
@@ -12,3 +13,8 @@ concentration songs for focus
 * soul vibe - aso
 * colours ft. kondor side-a - p.r
 * level u - flitz&suppe
+* troubadix - plusma
+
+## sitelist
+* [freeCodeCamp](https://www.youtube.com/watch?v=PQ22pgaXog4)
+* [musicForProgramming](https://musicforprogramming.net)
