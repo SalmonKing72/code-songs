@@ -15,6 +15,7 @@ concentration songs for focus
 * level u - flitz&suppe
 * troubadix - plusma
 * for you - no alias
+* seaside - nitsua
 
 ## sitelist
 * [freeCodeCamp](https://www.youtube.com/watch?v=PQ22pgaXog4)
