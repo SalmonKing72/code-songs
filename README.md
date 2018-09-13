@@ -18,6 +18,7 @@ concentration songs for focus
 * seaside - nitsua
 * flowon - jinsang
 * noctiluca ft. dj Okawari - marcus d
+* gigi - vanilla
 
 ## sitelist
 * [freeCodeCamp](https://www.youtube.com/watch?v=PQ22pgaXog4)
