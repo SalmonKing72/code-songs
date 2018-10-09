@@ -27,6 +27,7 @@ concentration songs for focus
 * home - tom misch
 * about the distance - flitz&suppe
 * honey - emancipator
+* lush meadows of stone - city girl
 
 ## sitelist
 * [freeCodeCamp](https://www.youtube.com/watch?v=PQ22pgaXog4)
