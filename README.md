@@ -28,6 +28,7 @@ concentration songs for focus
 * about the distance - flitz&suppe
 * honey - emancipator
 * lush meadows of stone - city girl
+* luvsic part 6 remix instrumental remix by uyama hiroto - nujabes
 
 ## sitelist
 * [freeCodeCamp](https://www.youtube.com/watch?v=PQ22pgaXog4)
