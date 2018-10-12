@@ -30,6 +30,7 @@ concentration songs for focus
 * honey - emancipator
 * lush meadows of stone - city girl
 * luvsic part 6 remix instrumental remix by uyama hiroto - nujabes
+* alone journey - blazo
 
 ## sitelist
 * [freeCodeCamp](https://www.youtube.com/watch?v=PQ22pgaXog4)
