@@ -32,6 +32,7 @@ concentration songs for focus
 * luvsic part 6 remix instrumental remix by uyama hiroto - nujabes
 * alone journey - blazo
 * all around the world - marcus d
+* kestrels - edamame
 
 ## sitelist
 * [freeCodeCamp](https://www.youtube.com/watch?v=PQ22pgaXog4)
