@@ -34,6 +34,7 @@ concentration songs for focus
 * all around the world - marcus d
 * kestrels - edamame
 * bridge through time - apollo brown
+* we're a melody - days of contrast
 
 ## sitelist
 * [freeCodeCamp](https://www.youtube.com/watch?v=PQ22pgaXog4)
