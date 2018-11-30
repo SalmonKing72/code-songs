@@ -41,6 +41,7 @@ concentration songs for focus
 * waves - marcus d
 * abacus - edamame
 * my - edamame
+* settle down - mr kafer
 
 ## sitelist
 * [freeCodeCamp](https://www.youtube.com/watch?v=PQ22pgaXog4)
