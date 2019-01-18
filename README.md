@@ -46,6 +46,7 @@ concentration songs for focus
 * playtime - lindecis
 * the triump - trebles and blues
 * forgettin - vanilla
+* kamakura - emancipator
 
 ## sitelist
 * [freeCodeCamp](https://www.youtube.com/watch?v=PQ22pgaXog4)
