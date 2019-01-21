@@ -47,6 +47,7 @@ concentration songs for focus
 * the triump - trebles and blues
 * forgettin - vanilla
 * kamakura - emancipator
+* floating - badsummer
 
 ## sitelist
 * [freeCodeCamp](https://www.youtube.com/watch?v=PQ22pgaXog4)
