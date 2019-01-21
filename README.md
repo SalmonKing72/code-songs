@@ -48,6 +48,7 @@ concentration songs for focus
 * forgettin - vanilla
 * kamakura - emancipator
 * floating - badsummer
+* bridges - 14kt
 
 ## sitelist
 * [freeCodeCamp](https://www.youtube.com/watch?v=PQ22pgaXog4)
