@@ -61,6 +61,7 @@ concentration songs for focus
 * past times - kavv
 * green hills - alex
 * hibiscus emoji - strehlow
+* fazed - singular balance
 
 ## sitelist
 * [freeCodeCamp](https://www.youtube.com/watch?v=PQ22pgaXog4)
