@@ -63,6 +63,7 @@ concentration songs for focus
 * hibiscus emoji - strehlow
 * fazed - singular balance
 * requiem for the dead - biosphere
+* soul vibe - aso
 
 ## sitelist
 * [freeCodeCamp](https://www.youtube.com/watch?v=PQ22pgaXog4)
